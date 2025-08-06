@@ -48,9 +48,7 @@ com.alura.literalura: Classe principal e configuração da aplicação.
 Como Rodar o Projeto
 Clone este repositório:
 
-bash
-Copiar
-Editar
+
 git clone https://github.com/seuusuario/literalura.git
 cd literalura
 Configure o banco PostgreSQL e crie um banco de dados para o projeto.
@@ -58,17 +56,14 @@ Configure o banco PostgreSQL e crie um banco de dados para o projeto.
 Ajuste as configurações de conexão no application.properties:
 
 properties
-Copiar
-Editar
+
 spring.datasource.url=jdbc:postgresql://localhost:5432/seubanco
 spring.datasource.username=seuusuario
 spring.datasource.password=suasenha
 spring.jpa.hibernate.ddl-auto=update
 Compile e execute a aplicação com Maven:
 
-bash
-Copiar
-Editar
+
 mvn clean install
 mvn spring-boot:run
 Utilize o menu no terminal para buscar livros e interagir com a base de dados.
