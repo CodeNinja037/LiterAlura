@@ -95,3 +95,8 @@ Criar interface web para facilitar o uso do sistema.
 
 Contato
 Projeto desenvolvido por Luiz Fernando Ribeiro.
+
+<img width="1908" height="1079" alt="image" src="https://github.com/user-attachments/assets/9b4263c4-17be-4615-8b63-8285c780a7f0" />
+
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/ff3fa2a5-7272-430c-a87e-744bcb816c10" />
+
